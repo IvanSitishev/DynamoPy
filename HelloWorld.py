@@ -1,1 +1,1 @@
-OUT = "Hello World"
+OUT = "Привет МИР"
